@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RonaldTarea2</string>
+    <string name="Titulo">Blootooth Manager</string>
+    <string name="url">https://www.google.com</string>
+    <string name="Encender">ENCENDER BT</string>
+    <string name="Apagar">APAGAR BT</string>
+</resources>
